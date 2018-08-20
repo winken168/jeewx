@@ -2,16 +2,16 @@ JeeWx 微信管家平台，简称“捷微”.
 ===============
   （一款免费开源的JAVA多触点管理平台）
 ===============
-当前最新版本： 3.1.0（发布日期：20180319）
+当前最新版本： 3.2.0（发布日期：20180712）
 官网：[www.jeewx.com](http://www.jeewx.com) 
 
-![github](http://img.blog.csdn.net/20161123110044167?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192621_ou91.png "jeewx")
 <br>
 
 一、平台简介
 -----------------------------------
 Jeewx是一款开源、免费的微信管家系统（多触点管理平台），2014年荣获CSDN开发商大会第一名。采用JAVA语言，支持微信公众号、微信企业号、支付宝服务窗、小程序等多触点管理。Jeewx实现了微信公众号、支付窗、微信企业号、小程序等触点的基础管理功能，集成了Oauth2.0、扩展业务、工具箱、报表等实用模块，强大的代码生成器，便于用户二次开发。
-![github](http://img.blog.csdn.net/20161123104736053?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26193036_XzZ1.png "jeewx")
 
 二、平台特性
 -----------------------------------
@@ -106,22 +106,16 @@ Jeewx是一款开源、免费的微信管家系统（多触点管理平台），
 -----------------------------------
 *   在线演示: [http://www.jeewx.com/jeewx](http://www.jeewx.com/jeewx)
 *   体验账号：ceshi/123456 (可注册)
-*   官方公众号："JEEWX捷微"  "H5活动之家"
-	
-![github](http://img.blog.csdn.net/20180309122145466 "jeewx")
-![github](http://img.blog.csdn.net/20160323154916164?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
+*   官方公众号："JEEWX捷微管家"
+
+![jeewx](https://static.oschina.net/uploads/img/201807/26192949_MNyN.png "jeewx")
 
 
 七、系统截图 
 -----------------------------------
-![github](http://img.blog.csdn.net/20161220223948861?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhhbmdkYWlzY290dA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20161220224001733?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhhbmdkYWlzY290dA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20161220224008937?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemhhbmdkYWlzY290dA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160822173828381?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160908175834009?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160822173833177?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323152508827?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323153059001?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323153104923?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323153117501?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
-![github](http://img.blog.csdn.net/20160323153122251?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192218_JhGj.png "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192231_JVRQ.png "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192243_Z6kP.png "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192252_wNNj.png "jeewx")
+![jeewx](https://static.oschina.net/uploads/img/201807/26192259_xGJx.png "jeewx")
+
